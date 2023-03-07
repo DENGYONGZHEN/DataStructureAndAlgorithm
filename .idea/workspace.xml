@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f36d5e17-3e45-4bea-80bd-d3681da52a18" name="Changes" comment="stack" />
+    <list default="true" id="f36d5e17-3e45-4bea-80bd-d3681da52a18" name="Changes" comment="stack">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,8 +49,8 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Test03Stack">
-    <configuration name="Test01Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.com.deng.Test04Queue">
+    <configuration name="com.deng.Test01Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.deng.Test01Array" />
       <module name="DataStructure" />
       <extension name="coverage">
@@ -61,7 +63,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test02LinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="com.deng.Test02LinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.deng.Test02LinkedList" />
       <module name="DataStructure" />
       <extension name="coverage">
@@ -74,8 +76,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test03Stack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="com.deng.Test03Stack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.deng.Test03Stack" />
+      <module name="DataStructure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.deng.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.deng.Test04Queue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.deng.Test04Queue" />
       <module name="DataStructure" />
       <extension name="coverage">
         <pattern>
@@ -89,9 +104,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Test03Stack" />
-        <item itemvalue="Application.Test02LinkedList" />
-        <item itemvalue="Application.Test01Array" />
+        <item itemvalue="Application.com.deng.Test04Queue" />
+        <item itemvalue="Application.com.deng.Test03Stack" />
+        <item itemvalue="Application.com.deng.Test02LinkedList" />
+        <item itemvalue="Application.com.deng.Test01Array" />
       </list>
     </recent_temporary>
   </component>
@@ -106,6 +122,8 @@
       <workItem from="1678000880702" duration="16362000" />
       <workItem from="1678073284925" duration="10226000" />
       <workItem from="1678097121470" duration="4510000" />
+      <workItem from="1678113180001" duration="66000" />
+      <workItem from="1678151965469" duration="4363000" />
     </task>
     <task id="LOCAL-00001" summary="array">
       <created>1678021776549</created>
@@ -128,7 +146,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678112655483</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="stack">
+      <created>1678113224029</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1678113224029</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
