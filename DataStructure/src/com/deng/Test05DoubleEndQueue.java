@@ -8,4 +8,8 @@ package com.deng;
  * @Created by helloDeng
  */
 public class Test05DoubleEndQueue {
+    public static void main(String[] args) {
+
+
+    }
 }
