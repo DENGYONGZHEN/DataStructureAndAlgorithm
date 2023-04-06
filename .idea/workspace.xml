@@ -4,8 +4,9 @@
     <option name="GROUP_BY_SEVERITY" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f36d5e17-3e45-4bea-80bd-d3681da52a18" name="Changes" comment="heapSort">
+    <list default="true" id="f36d5e17-3e45-4bea-80bd-d3681da52a18" name="Changes" comment="sort">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm/src/com/deng/Test08MinimumStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/src/com/deng/Test08MinimumStack.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +59,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors.Language Defaults&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Test07LinkedListHasARing">
+  <component name="RunManager" selected="Application.Test08MaximumConvention">
     <configuration name="Test05CountSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.deng.Test05CountSort" />
       <module name="Algorithm" />
@@ -98,8 +99,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.deng.Test03QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.deng.Test03QuickSort" />
+    <configuration name="Test08MaximumConvention" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.deng.Test08MaximumConvention" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
@@ -111,8 +112,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.deng.Test04HeapSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.deng.Test04HeapSort" />
+    <configuration name="Test08MinimumStack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.deng.Test08MinimumStack" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
@@ -126,11 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test08MaximumConvention" />
+        <item itemvalue="Application.Test08MinimumStack" />
         <item itemvalue="Application.Test07LinkedListHasARing" />
         <item itemvalue="Application.Test06BucketSort" />
         <item itemvalue="Application.Test05CountSort" />
-        <item itemvalue="Application.com.deng.Test04HeapSort" />
-        <item itemvalue="Application.com.deng.Test03QuickSort" />
       </list>
     </recent_temporary>
   </component>
@@ -158,7 +159,11 @@
       <workItem from="1678426992107" duration="8938000" />
       <workItem from="1678506584088" duration="3749000" />
       <workItem from="1678590048254" duration="5713000" />
-      <workItem from="1678682786214" duration="7397000" />
+      <workItem from="1678682786214" duration="7563000" />
+      <workItem from="1680012845621" duration="28000" />
+      <workItem from="1680244340022" duration="1957000" />
+      <workItem from="1680606600093" duration="33000" />
+      <workItem from="1680778446339" duration="3275000" />
     </task>
     <task id="LOCAL-00001" summary="array">
       <created>1678021776549</created>
@@ -216,7 +221,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678510336263</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="sort">
+      <created>1678694598248</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1678694598248</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -243,7 +255,8 @@
     <MESSAGE value="heap" />
     <MESSAGE value="quickSort" />
     <MESSAGE value="heapSort" />
-    <option name="LAST_COMMIT_MESSAGE" value="heapSort" />
+    <MESSAGE value="sort" />
+    <option name="LAST_COMMIT_MESSAGE" value="sort" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
