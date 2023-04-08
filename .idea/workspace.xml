@@ -63,7 +63,7 @@
       <recent name="D:\maven-workspace\space1110\DataStructureAndAlgorithm\Algorithm\src\com\deng" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Test12StackImplementsQueue">
+  <component name="RunManager" selected="Application.Test13FindNearestNumber">
     <configuration name="Test09MaximumConvention" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.deng.Test09MaximumConvention" />
       <module name="Algorithm" />
@@ -116,8 +116,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.deng.Test08MinimumStack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.deng.Test08MinimumStack" />
+    <configuration name="Test13FindNearestNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.deng.Test13FindNearestNumber" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
@@ -131,11 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test13FindNearestNumber" />
         <item itemvalue="Application.Test12StackImplementsQueue" />
         <item itemvalue="Application.Test11MaxSortedDistance" />
         <item itemvalue="Application.Test10PowerOf2" />
         <item itemvalue="Application.Test09MaximumConvention" />
-        <item itemvalue="Application.com.deng.Test08MinimumStack" />
       </list>
     </recent_temporary>
   </component>
@@ -169,7 +169,7 @@
       <workItem from="1680606600093" duration="33000" />
       <workItem from="1680778446339" duration="3337000" />
       <workItem from="1680880369052" duration="3042000" />
-      <workItem from="1680918824997" duration="8610000" />
+      <workItem from="1680918824997" duration="17973000" />
     </task>
     <task id="LOCAL-00001" summary="array">
       <created>1678021776549</created>
@@ -248,7 +248,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680926944492</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="sort">
+      <created>1680933331540</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1680933331540</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
