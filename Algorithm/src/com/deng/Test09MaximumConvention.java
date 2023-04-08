@@ -1,13 +1,13 @@
 package com.deng;
 
 /**
- * @Classname Test08MaximumConvention
+ * @Classname Test09MaximumConvention
  * @Description 求两整数的最大公约数
  * @Version 1.0.0
  * @Date 2023/3/31 16:08
  * @Created by helloDeng
  */
-public class Test08MaximumConvention {
+public class Test09MaximumConvention {
     public static void main(String[] args) {
         System.out.println(gcd(25,5));
         System.out.println(gcd(100,80));
