@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="f36d5e17-3e45-4bea-80bd-d3681da52a18" name="Changes" comment="sort">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm/src/com/deng/Test08MaximumConvention.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/src/com/deng/Test09MaximumConvention.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +63,7 @@
       <recent name="D:\maven-workspace\space1110\DataStructureAndAlgorithm\Algorithm\src\com\deng" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Test11MaxSortedDistance">
+  <component name="RunManager" selected="Application.Test12StackImplementsQueue">
     <configuration name="Test09MaximumConvention" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.deng.Test09MaximumConvention" />
       <module name="Algorithm" />
@@ -104,8 +103,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.deng.Test07LinkedListHasARing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.deng.Test07LinkedListHasARing" />
+    <configuration name="Test12StackImplementsQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.deng.Test12StackImplementsQueue" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
@@ -132,11 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test12StackImplementsQueue" />
         <item itemvalue="Application.Test11MaxSortedDistance" />
         <item itemvalue="Application.Test10PowerOf2" />
         <item itemvalue="Application.Test09MaximumConvention" />
         <item itemvalue="Application.com.deng.Test08MinimumStack" />
-        <item itemvalue="Application.com.deng.Test07LinkedListHasARing" />
       </list>
     </recent_temporary>
   </component>
@@ -170,7 +169,7 @@
       <workItem from="1680606600093" duration="33000" />
       <workItem from="1680778446339" duration="3337000" />
       <workItem from="1680880369052" duration="3042000" />
-      <workItem from="1680918824997" duration="5821000" />
+      <workItem from="1680918824997" duration="8610000" />
     </task>
     <task id="LOCAL-00001" summary="array">
       <created>1678021776549</created>
@@ -242,7 +241,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680781996464</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="sort">
+      <created>1680926944492</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1680926944492</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
