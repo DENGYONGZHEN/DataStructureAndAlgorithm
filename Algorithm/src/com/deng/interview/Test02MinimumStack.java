@@ -10,7 +10,7 @@ import java.util.Stack;
  * @Created by helloDeng
  * @author
  */
-public class Test08MinimumStack {
+public class Test02MinimumStack {
     public static void main(String[] args) throws Exception {
         MiniStack miniStack = new MiniStack();
         miniStack.push(4);

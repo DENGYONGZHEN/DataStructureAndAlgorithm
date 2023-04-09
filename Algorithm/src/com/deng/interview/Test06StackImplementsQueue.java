@@ -10,7 +10,7 @@ import java.util.Stack;
  * @Created by helloDeng
  * @author
  */
-public class Test12StackImplementsQueue {
+public class Test06StackImplementsQueue {
 
     public static void main(String[] args) {
 

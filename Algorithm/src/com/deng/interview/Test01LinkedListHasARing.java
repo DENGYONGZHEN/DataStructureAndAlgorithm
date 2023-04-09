@@ -12,7 +12,7 @@ package com.deng.interview;
  * 开始一个大循环，在循环体中，让指针p1每次向后移动1个节点，让指针p2每次向后移动2个节点，然后比
  * 较两个指针指向的节点是否相同。如果相同，则可以判断出链表有环，如果不同，则继续下一次循环。
  */
-public class Test07LinkedListHasARing {
+public class Test01LinkedListHasARing {
     public static void main(String[] args) {
         Node node1 = new Node(5);
         Node node2 = new Node(3);
