@@ -1,9 +1,9 @@
-package com.deng;
+package com.deng.interview;
 
 import java.util.Arrays;
 
 /**
- * @Classname Test13FindNearestNumber
+ * @Classname Test07FindNearestNumber
  * @Description 在一个整数所包含数字的全部组合中，找到一个大于且仅大于原数的新整数
  *                                       如果输入12345，则返回12354。
  *                                       如果输入12354，则返回12435。
@@ -20,7 +20,7 @@ import java.util.Arrays;
  * 为了和原数接近，我们需要尽量保持高位不变，低位在最小的范围内变换顺序
  * 至于变换顺序的范围大小，则取决于当前整数的逆序区域
  */
-public class Test13FindNearestNumber {
+public class Test07FindNearestNumber {
     public static void main(String[] args) {
         int num = 12345;
         int[] ints = valueToArray(num);

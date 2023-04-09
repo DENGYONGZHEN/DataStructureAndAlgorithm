@@ -1,4 +1,4 @@
-package com.deng;
+package com.deng.interview;
 
 import java.util.Stack;
 

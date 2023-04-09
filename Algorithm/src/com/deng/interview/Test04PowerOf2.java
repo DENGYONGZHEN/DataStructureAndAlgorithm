@@ -1,13 +1,13 @@
-package com.deng;
+package com.deng.interview;
 /**
- * @Classname Test10PowerOf2
+ * @Classname Test04PowerOf2
  * @Description 验证一个整数是否是2的整数幂结果，例如16是2的4次方
  * @Version 1.0.0
  * @Date 2023/4/8 0:22
  * @Created by helloDeng
  * @author
  */
-public class Test10PowerOf2 {
+public class Test04PowerOf2 {
     public static void main(String[] args) {
         System.out.println(isPowerOf2(32));
         System.out.println(isPowerOf2(19));

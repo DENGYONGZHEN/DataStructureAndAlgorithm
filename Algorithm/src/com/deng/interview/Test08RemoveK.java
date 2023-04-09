@@ -1,7 +1,9 @@
-package com.deng;
+package com.deng.interview;
+
+
 
 /**
- * @Classname Test14RemoveK
+ * @Classname Test08RemoveK
  * @Description  删去k个数字后的最小值
  * @Version 1.0.0
  * @Date 2023/4/8 17:59
@@ -18,7 +20,7 @@ package com.deng;
  *
  * substring()中包括开始位置的元素，不包括结束位置的元素
  */
-public class Test14RemoveK {
+public class Test08RemoveK {
     public static void main(String[] args) {
         System.out.println(removeKDigits("1593212",3));
         System.out.println(removeKDigits("30200",1));
@@ -69,5 +71,36 @@ public class Test14RemoveK {
             numNew = numNew.substring(1,numNew.length());
         }
         return numNew;
+    }
+
+    /**
+     * 优化算法,删除整数的k个数字，获得删除后的最小值
+     * @param num 原整数
+     * @param k   删除数字的数量
+     * @return
+     */
+    public static String removeKDigits2(String num,int k ){
+        //新整数长度 = 原整数长度 - k
+        int newLength = num.length() - k;
+        //创建一个栈，用于接收所有的数字
+        char[] stack = new char[num.length()];
+        int top = 0;
+        for (int i = 0; i < num.length(); ++i) {
+            //遍历当前数字
+            char c = num.charAt(i);
+            //当栈顶数字大于遍历到的当前数字时，栈顶数字出栈（相当于删除数字）
+            while (top > 0 && stack[top - 1] > c && k > 0 ){
+                top -= 1;
+                k -= 1;
+            }
+            //遍历到的当前数字入栈
+            stack[top++] = c;
+        }
+        //找到栈中第一个非零数字的位置，以此构建新的整数字符串
+        int offset = 0;
+        while (offset < newLength && stack[offset] == '0'){
+            offset++;
+        }
+        return offset == newLength ? "0" :new String(stack,offset,newLength - offset);
     }
 }

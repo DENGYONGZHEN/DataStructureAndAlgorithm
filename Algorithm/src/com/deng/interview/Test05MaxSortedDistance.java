@@ -1,13 +1,13 @@
-package com.deng;
+package com.deng.interview;
 
 /**
- * @Classname Test11MaxSortedDistance
+ * @Classname Test05MaxSortedDistance
  * @Description 求无序数组排序后相邻两个元素之间差值最大为多少
  * @Version 1.0.0
  * @Date 2023/4/8 0:40
  * @Created by helloDeng
  */
-public class Test11MaxSortedDistance {
+public class Test05MaxSortedDistance {
     public static void main(String[] args) {
         int[] arr = new int[]{1,2,3,5,9,10,12,19};
         System.out.println(getMaxSortedDistance(arr));

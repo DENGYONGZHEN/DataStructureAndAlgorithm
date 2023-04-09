@@ -1,4 +1,4 @@
-package com.deng;
+package com.deng.interview;
 
 /**
  * @Classname Test07LinkedListHasARing
