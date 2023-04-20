@@ -1,22 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AnalysisUIOptions">
-    <option name="GROUP_BY_SEVERITY" value="true" />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="f36d5e17-3e45-4bea-80bd-d3681da52a18" name="Changes" comment="sort">
+    <list default="true" id="5b7bd82e-7d87-46d2-8df9-652981ac6b40" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Algorithm/src/com/deng/Test07SelectionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm/src/com/deng/Test08InsertSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm/src/com/deng/Test09ShellSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm/src/com/deng/Test10MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm/src/com/deng/Test11RadixSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/intellij-javadocs-4.0.1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/intellij-javadocs-4.0.1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/leetcode/statistics.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/statistics.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm/src/com/deng/interview/Test01LinkedListHasARing.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/src/com/deng/interview/Test01LinkedListHasARing.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm/src/com/deng/interview/Test02MinimumStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/src/com/deng/interview/Test02MinimumStack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm/src/com/deng/interview/Test06StackImplementsQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/src/com/deng/interview/Test06StackImplementsQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm/src/com/deng/interview/Test09BigNumberSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/src/com/deng/interview/Test09BigNumberSum.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="CodeInsightWorkspaceSettings">
-    <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -27,9 +30,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="GitToolBoxStore">
-    <option name="projectConfigVersion" value="5" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -43,36 +43,29 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectId" id="2MaLiqzP99w0szRbzc74W0IVp4F" />
+  <component name="ProjectId" id="2OQ2nCLvagz3AhkiX6xlEWqiH4D" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;1.8&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.14963503&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors.Language Defaults&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;debugger.stepping&quot;
   }
 }</component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\maven-workspace\space1110\DataStructureAndAlgorithm\Algorithm\src\com\deng" />
-    </key>
-  </component>
-  <component name="RunManager" selected="Application.Test09BigNumberSum">
-    <configuration name="Test01LinkedListHasARing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.deng.interview.Test01LinkedListHasARing" />
+  <component name="RunManager" selected="Application.Test10MergeSort">
+    <configuration name="Test07SelectionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.deng.Test07SelectionSort" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.deng.interview.*" />
+          <option name="PATTERN" value="com.deng.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,12 +73,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test08RemoveK" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.deng.interview.Test08RemoveK" />
+    <configuration name="Test08InsertSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.deng.Test08InsertSort" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.deng.interview.*" />
+          <option name="PATTERN" value="com.deng.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test09BigNumberSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.deng.interview.Test09BigNumberSum" />
+    <configuration name="Test09ShellSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.deng.Test09ShellSort" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.deng.interview.*" />
+          <option name="PATTERN" value="com.deng.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test12StackImplementsQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.deng.interview.Test12StackImplementsQueue" />
+    <configuration name="Test10MergeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.deng.Test10MergeSort" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.deng.interview.*" />
+          <option name="PATTERN" value="com.deng.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,8 +112,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.deng.interview.Test07FindNearestNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.deng.interview.Test07FindNearestNumber" />
+    <configuration name="Test11FindLostNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.deng.interview.Test11FindLostNumber" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
@@ -134,153 +127,30 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Test09BigNumberSum" />
-        <item itemvalue="Application.Test01LinkedListHasARing" />
-        <item itemvalue="Application.Test08RemoveK" />
-        <item itemvalue="Application.com.deng.interview.Test07FindNearestNumber" />
-        <item itemvalue="Application.com.deng.interview.Test12StackImplementsQueue" />
+        <item itemvalue="Application.Test10MergeSort" />
+        <item itemvalue="Application.Test09ShellSort" />
+        <item itemvalue="Application.Test08InsertSort" />
+        <item itemvalue="Application.Test07SelectionSort" />
+        <item itemvalue="Application.Test11FindLostNumber" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="f36d5e17-3e45-4bea-80bd-d3681da52a18" name="Changes" comment="" />
-      <created>1678000877416</created>
+      <changelist id="5b7bd82e-7d87-46d2-8df9-652981ac6b40" name="Changes" comment="" />
+      <created>1681478654982</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1678000877416</updated>
-      <workItem from="1678000880702" duration="16362000" />
-      <workItem from="1678073284925" duration="10226000" />
-      <workItem from="1678097121470" duration="4510000" />
-      <workItem from="1678113180001" duration="66000" />
-      <workItem from="1678151965469" duration="5097000" />
-      <workItem from="1678170168399" duration="3934000" />
-      <workItem from="1678182911169" duration="1341000" />
-      <workItem from="1678194061727" duration="277000" />
-      <workItem from="1678194389341" duration="2351000" />
-      <workItem from="1678244016104" duration="3957000" />
-      <workItem from="1678251057263" duration="2756000" />
-      <workItem from="1678259196836" duration="8433000" />
-      <workItem from="1678326207860" duration="13027000" />
-      <workItem from="1678426992107" duration="8938000" />
-      <workItem from="1678506584088" duration="3749000" />
-      <workItem from="1678590048254" duration="5713000" />
-      <workItem from="1678682786214" duration="7563000" />
-      <workItem from="1680012845621" duration="28000" />
-      <workItem from="1680244340022" duration="1957000" />
-      <workItem from="1680606600093" duration="33000" />
-      <workItem from="1680778446339" duration="3337000" />
-      <workItem from="1680880369052" duration="3042000" />
-      <workItem from="1680918824997" duration="24540000" />
-      <workItem from="1681011672421" duration="6918000" />
+      <updated>1681478654982</updated>
+      <workItem from="1681478660799" duration="33000" />
+      <workItem from="1681479007450" duration="229000" />
+      <workItem from="1681544169888" duration="6057000" />
+      <workItem from="1681610813483" duration="905000" />
+      <workItem from="1681737410350" duration="50000" />
+      <workItem from="1681908598907" duration="5479000" />
+      <workItem from="1681993097708" duration="3186000" />
     </task>
-    <task id="LOCAL-00001" summary="array">
-      <created>1678021776549</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1678021776549</updated>
-    </task>
-    <task id="LOCAL-00002" summary="LinkedList">
-      <created>1678082012427</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1678082012427</updated>
-    </task>
-    <task id="LOCAL-00003" summary="stack">
-      <created>1678112655483</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1678112655483</updated>
-    </task>
-    <task id="LOCAL-00004" summary="stack">
-      <created>1678113224029</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1678113224029</updated>
-    </task>
-    <task id="LOCAL-00005" summary="queue">
-      <created>1678157109519</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1678157109519</updated>
-    </task>
-    <task id="LOCAL-00006" summary="heap">
-      <created>1678337087594</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1678337087594</updated>
-    </task>
-    <task id="LOCAL-00007" summary="quickSort">
-      <created>1678436891612</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1678436891612</updated>
-    </task>
-    <task id="LOCAL-00008" summary="heapSort">
-      <created>1678510336263</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1678510336263</updated>
-    </task>
-    <task id="LOCAL-00009" summary="sort">
-      <created>1678694598248</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1678694598248</updated>
-    </task>
-    <task id="LOCAL-00010" summary="sort">
-      <created>1680781996464</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1680781996464</updated>
-    </task>
-    <task id="LOCAL-00011" summary="sort">
-      <created>1680926944492</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1680926944492</updated>
-    </task>
-    <task id="LOCAL-00012" summary="sort">
-      <created>1680933331540</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1680933331540</updated>
-    </task>
-    <task id="LOCAL-00013" summary="sort">
-      <created>1680943250358</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1680943250358</updated>
-    </task>
-    <task id="LOCAL-00014" summary="sort">
-      <created>1680952714511</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1680952714511</updated>
-    </task>
-    <task id="LOCAL-00015" summary="sort">
-      <created>1681014225992</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1681014225992</updated>
-    </task>
-    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -296,22 +166,5 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
-    <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="array" />
-    <MESSAGE value="LinkedList" />
-    <MESSAGE value="stack" />
-    <MESSAGE value="queue" />
-    <MESSAGE value="heap" />
-    <MESSAGE value="quickSort" />
-    <MESSAGE value="heapSort" />
-    <MESSAGE value="sort" />
-    <option name="LAST_COMMIT_MESSAGE" value="sort" />
-  </component>
-  <component name="XSLT-Support.FileAssociations.UIState">
-    <expand />
-    <select />
   </component>
 </project>

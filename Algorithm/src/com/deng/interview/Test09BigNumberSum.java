@@ -7,6 +7,12 @@ package com.deng.interview;
  * @Date 2023/4/9 13:27
  * @Created by helloDeng
  * @author
+ *
+ * int类型的取值范围是-2 147 483 648～2 147483 647，最多可以有10位整数。为了防止溢出，我们
+ * 可以把大整数的每9位作为数组的一个元素，进行加法运算。（这里也可以使用long类型来拆分，按照int类型拆分仅仅是提供一个思路。）
+ *
+ * 在Java中，工具类BigInteger和BigDecimal的底层实现同样是把大整数拆分成数组进行运算的，和这个思路大体类似
+ * 可以看看这两个类的源代码。
  */
 public class Test09BigNumberSum {
     public static void main(String[] args) {
